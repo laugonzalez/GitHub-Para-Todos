@@ -1,6 +1,6 @@
-# Modificame
+# Jugando con las TICs
 
-Este es un primer texto para *modificar*, **cambiar** y jugar.
+Un primer encuentro para *divertirnos* y **aprender**
 
 > Es nuestro arenero personal
 
